@@ -17,7 +17,7 @@ const SkillSlider = () => (
       breakpoints={{ 640: { slidesPerView: 5 }, 1024: { slidesPerView: 7 } }}
       spaceBetween={24}
     >
-      {usingNowIcons.map(({ name, icon: Icon }, idx) => (
+      {usingNowIcons.map(({ icon: Icon }, idx) => (
         <SwiperSlide key={idx}>
         <div className="group flex flex-col items-center justify-center text-center">
           <Icon className="text-black text-6xl group-hover:text-white transition duration-300 group-hover:drop-shadow-[0_0_8px_white]" />
