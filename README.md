@@ -1,11 +1,9 @@
-📄 Berikut adalah isi file `README.md` yang cocok untuk proyek portfolio yang baru kamu deploy. Struktur ini sudah mencakup demo, fitur, teknologi, dan cara menjalankan secara lokal:
 
-Link design :https://www.figma.com/design/jDIDjMS7f2yN2M5AEk72O6/Untitled?node-id=1-2&t=WLVgdEXF7rmue2ad-0
-Link demo : https://wcd02-personal-project.vercel.app/
+## 🚀 Personal Portfolio 
 
-## 🚀 Personal Portfolio – Deployed Version
+📍 Live Demo → [Click Here](https://wcd02-personal-project.vercel.app)
 
-📍 Live Demo → [https://wcd02-personal-project.vercel.app](https://wcd02-personal-project.vercel.app)
+📍 Link Design → [Click Here](https://www.figma.com/design/jDIDjMS7f2yN2M5AEk72O6/Untitled?node-id=1-2&t=WLVgdEXF7rmue2ad-0)
 
 ---
 
